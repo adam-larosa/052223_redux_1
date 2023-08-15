@@ -1,0 +1,12 @@
+{
+  "secrets": [
+    {
+      "id": 1,
+      "content": "the child set the fire!"
+    },
+    {
+      "id": 2,
+      "content": "he didn't even have a license"
+    }
+  ]
+}
